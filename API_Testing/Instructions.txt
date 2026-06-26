@@ -1,0 +1,5 @@
+Step 1:
+First run the python file called Test_API.py to enable the API
+
+Step 2:
+Next run each API test to conduct validations
